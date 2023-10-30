@@ -23,7 +23,7 @@ $font: "League Spartan", sans-serif;
 }
 
 html {
-  background-image: url(images/bg-pattern-top-mobile.svg), url(images/bg-pattern-bottom-mobile.svg);
+  background-image: url(/images/bg-pattern-top-mobile.svg), url(/images/bg-pattern-bottom-mobile.svg);
   background-position: left top, right bottom;
   background-repeat: no-repeat;
 }
@@ -72,7 +72,7 @@ html {
   &__star {
     width: 120px;
     height: 30px;
-    background-image: url(images/icon-star.svg);
+    background-image: url(/images/icon-star.svg);
     background-repeat: space;
     background-size: 20%;
     margin-inline: auto;
@@ -150,8 +150,8 @@ html {
 @media screen and (min-width: f.em(1100)) {
   html {
     padding-top: 10vh;
-    background-image: url(images/bg-pattern-top-desktop.svg),
-      url(images/bg-pattern-bottom-desktop.svg);
+    background-image: url(/images/bg-pattern-top-desktop.svg),
+      url(/images/bg-pattern-bottom-desktop.svg);
     background-position: left top, right bottom;
   }
 

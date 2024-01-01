@@ -15,8 +15,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/social-proof-section-scss-and-flex-Qwyw_PCmBu)
+- Live Site URL: [here](https://ughvop.github.io/social-proof-section-master/)
 
 ## My process
 
